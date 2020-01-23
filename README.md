@@ -14,7 +14,7 @@ The project Template can be used to build bigger projects
 
 ## Live Application URL
 
-### https://github.com/sadhanagsrm14/reactjsmenubar
+### https://github.com/RajeshKumarGuptaRock/ReactProject/
 This URL has the application deployed in
 
 ## Prerequisites
@@ -30,7 +30,7 @@ npm install -g create-react-app
 ```
 ## Live Application URL
 
-The Application is deployed in https://github.com/sadhanagsrm14/reactjsmenubar
+The Application is deployed in https://github.com/RajeshKumarGuptaRock/ReactProject/
 
 Click on the link to see the application
 
